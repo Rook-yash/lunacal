@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lunacal/static/css/main.72bde686.css",
+    "main.js": "/lunacal/static/js/main.127ab279.js",
+    "static/media/Angle.png": "/lunacal/static/media/Angle.717cb6ed3a13875104d5.png",
+    "index.html": "/lunacal/index.html",
+    "main.72bde686.css.map": "/lunacal/static/css/main.72bde686.css.map",
+    "main.127ab279.js.map": "/lunacal/static/js/main.127ab279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72bde686.css",
+    "static/js/main.127ab279.js"
+  ]
+}
